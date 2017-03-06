@@ -21,4 +21,6 @@ See the following two files included in the current repository:
 -- customer_demographics.csv (no header)
 -- customer_demographics.header is the header line
 
-# More details on Hortonworks Community Connection article:
+# More details on Hortonworks Community Connection
+
+See article: 
