@@ -3,6 +3,7 @@
 # Pre-requisites
 
 -- Apache NiFi 1.1.0.2.1.0.0-165, included with Hortonworks DataFlow 2.1.0
+
 -- Apache Zeppelin 0.6.0.2.5.0.0-1245, included with Hortonworks Data Platform 2.5.0 
 
 # Apache NiFi Template
