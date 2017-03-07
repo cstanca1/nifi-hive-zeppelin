@@ -12,13 +12,17 @@ See file CSVToHive.xml included in the current repository.
 
 # Apache Zeppelin Notebook
 
-See Customer Demographics.json included in the current repository.
+See "Customer Demographics.json" included in the current repository.
 
 # Demo Data
 
 See the following two files included in the current repository:
 -- customer_demographics.csv (no header)
 -- customer_demographics.header is the header line
+
+# Hive demo database and customer_demographics_orc table
+
+See customer_demographics_orc_table_ddl.hql included in the current repository.
 
 # Hortonworks Community Connection Article
 
