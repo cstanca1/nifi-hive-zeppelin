@@ -23,4 +23,4 @@ See the following two files included in the current repository:
 
 # Hortonworks Community Connection Article:
 
-TBD
+https://community.hortonworks.com/articles/87230/edit.html
