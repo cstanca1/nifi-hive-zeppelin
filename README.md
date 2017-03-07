@@ -1,4 +1,4 @@
-# Customer Demographics Demo with Apache Nifi, Hive and Zeppelin
+# Customer Demographics Demo with Nifi, Hive and Zeppelin
 
 # Pre-requisites
 
