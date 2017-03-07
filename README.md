@@ -14,8 +14,7 @@ See file CSVToHive.xml included in the current repository.
 
 See Customer Demographics.json included in the current repository.
 
-
-# Customer Demographics Demo Data
+# Demo Data
 
 See the following two files included in the current repository:
 -- customer_demographics.csv (no header)
